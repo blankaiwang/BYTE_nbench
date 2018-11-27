@@ -1,7 +1,7 @@
 # BYTE_nbench
 Previously known as BYTE's Native Mode Benchmarks.
 
-Since the primary web site http://www.tux.org/~mayer/linux/bmark.html is temporarily not available, I create a copy of source file of BYTE's nbench-2.23 here in github.
+Since the primary web site http://www.tux.org/~mayer/linux/bmark.html is temporarily not available, I create a copy of source file of BYTE's nbench-2.2.3 here in github.
 
 Here follows the original README 
 
